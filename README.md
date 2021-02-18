@@ -1,8 +1,9 @@
 ## Hi there! I'm Cecy ♡ I did my undergrad in compsci and a minor in graphic design, and am currently pursuing a Master's degree in Sociology.
 ### 🌱 I’m currently learning how to build things on Flutter
 
-
-<img src="https://i.pinimg.com/originals/88/e6/e4/88e6e4860735b137d74c0baa5c7d678d.gif" width="200" align="center"/>
+<p align="center">
+<img src="https://i.pinimg.com/originals/88/e6/e4/88e6e4860735b137d74c0baa5c7d678d.gif" width="200">
+</p>
 
 <!--
 **acsanchezr/acsanchezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
