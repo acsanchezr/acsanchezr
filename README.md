@@ -1,5 +1,5 @@
-### Hi there! I'm Cecy :) I did my undergrad in compsci and a minor in graphic design, and am currently pursuing a Master's degree in Sociology.
-## 🌱 I’m currently learning how to build things on Flutter
+## Hi there! I'm Cecy :) I did my undergrad in compsci and a minor in graphic design, and am currently pursuing a Master's degree in Sociology.
+### 🌱 I’m currently learning how to build things on Flutter
 
 
 
