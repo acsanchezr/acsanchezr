@@ -4,7 +4,7 @@
 ##### 📫 You can reach me here -> acecysanchezr@gmail.com
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/88/e6/e4/88e6e4860735b137d74c0baa5c7d678d.gif" width="200">
+<img src="https://i.pinimg.com/originals/88/e6/e4/88e6e4860735b137d74c0baa5c7d678d.gif" width="250">
 </p>
 
 <!--
