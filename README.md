@@ -1,4 +1,4 @@
-<p align="center">
+#### <p align="center">
 #### Hi there! I'm Cecy (she/her/ella) ♡ I have a background in compsci and graphic design, and am now pursuing a Master's degree in Sociology. 
 ##### 🌱 I’m currently learning how to build a mobile app on Flutter
 ##### ⚡ (not so) Fun fact: I like to paint with watercolor and love moccha frapps!
@@ -8,7 +8,7 @@
 <img src="https://i.pinimg.com/originals/88/e6/e4/88e6e4860735b137d74c0baa5c7d678d.gif" width="250">
 </p>
 
-</p>
+#### </p>
 <!--
 **acsanchezr/acsanchezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
