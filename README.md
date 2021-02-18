@@ -2,7 +2,7 @@
 ### 🌱 I’m currently learning how to build things on Flutter
 
 
-<img src="https://i.pinimg.com/originals/88/e6/e4/88e6e4860735b137d74c0baa5c7d678d.gif" width="200"/ align="center">
+<img src="https://i.pinimg.com/originals/88/e6/e4/88e6e4860735b137d74c0baa5c7d678d.gif" width="200" align="center"/>
 
 <!--
 **acsanchezr/acsanchezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
