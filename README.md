@@ -1,4 +1,4 @@
-#### Hi there! I'm Cecy (she/her/ella) ♡ I did my undergrad in compsci and a minor in graphic design, and am currently pursuing a Master's degree in Sociology. 
+#### Hi there! I'm Cecy (she/her/ella) ♡ I have a background in compsci and graphic design, and am currently pursuing a Master's degree in Sociology. 
 ##### 🌱 I’m currently learning how to build a mobile app on Flutter
 ##### ⚡ (not so) Fun fact: I like to paint with watercolor and love moccha frapps!
 ##### 📫 You can reach me here -> acecysanchezr@gmail.com
