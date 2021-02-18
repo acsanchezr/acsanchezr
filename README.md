@@ -1,5 +1,5 @@
 #### <p align="center">
-#### Hi there! I'm Cecy (she/her/ella) ♡ I have a background in compsci and graphic design, and am now pursuing a masters in sociology. Most of what I have here is school work, but I plan on uploading more personal projects ヽ(o´∀`)ﾉ♪♬
+#### hi there! I'm Cecy (she/her/ella) ♡ I have a background in compsci and graphic design, and am now pursuing a masters in sociology. Most of what I have here is school work, but I plan on uploading more personal projects ヽ(o´∀`)ﾉ♪♬
 ##### 🌱 I’m currently learning how to build a mobile app on Flutter
 ##### ⚡ (not so) Fun fact: I like to paint with watercolor and love moccha frapps!
 ##### 📫 You can reach me here -> acecysanchezr@gmail.com
