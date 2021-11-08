@@ -1,5 +1,5 @@
 #### <p align="center">
-#### Hi! I'm Cecy ♡ I have a background in compsci and graphic design, and am now pursuing a masters in sociology. I'm like to learn new things, and hope to develop useful resources on topics concerning tech and society (e.g., Human-Computer Interaction, Public Interest Technology)
+#### Hi! I'm Cecy ♡ I have a background in compsci and graphic design, and am now pursuing a masters in sociology. I like to learn new things, and hope to develop useful resources on topics concerning tech and society (e.g., Human-Computer Interaction, Public Interest Technology)
 ##### 🌱 I’m currently learning how to build a mobile app on Flutter
 ##### ⚡ (not so) Fun fact: I like to paint with watercolor, enjoy reading crime novels, and love moccha frapps!
 ##### 📫 You can reach me here -> acecysanchezr@gmail.com
