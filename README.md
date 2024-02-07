@@ -1,7 +1,7 @@
 #### <p align="center">
 #### Hi! I'm Cecy ♡ I have a background in compsci and graphic design, and have a masters in sociology. I like to learn new things, and hope to develop useful resources on topics concerning tech and society (e.g., Human-Computer Interaction, Public Interest Technology)
-##### 🌱 Currently learning STATA
-##### 📫 You can reach me here -> acecysanchezr@gmail.com
+##### 🌱 Currently job searching
+##### 📫 You can reach at acecysanchezr@gmail.com
 ##### ヽ(o´∀`)ﾉ♪♬
 
 <p align="center">
